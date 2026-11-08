@@ -56,8 +56,6 @@ The combination of timing circuits and audio amplification produces different el
 ## Project Details
 - **Project Name:** Sound Generator Using Dual NE555 Timer ICs
 - **Domain:** Electronics and Communication Engineering
-- **Lab:** Digital Devices and IC Lab
-- **Power Supply:** 9 V DC
 
 ## Conclusion
 This project demonstrates the use of two NE555 timer ICs in different operating modes to generate electronic sound patterns. It provides practical insight into timing circuits, RC networks, and audio amplification using commonly available integrated circuits.
